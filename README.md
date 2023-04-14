@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi there, I'm **Stênio Ellison**, a **Computer Engineering student** 🚀 and looking for a internship of **Front-end Developer**,  from Brazil, currently, I'm a Community Team Member 🙍🏽‍♂️ [@stenioEll](https://github.com/stenioEll), Behance 👨🏽‍💻 [@Behance](https://www.behance.net/stenioellison). 
+Hi there, I'm **Stênio Ellison**, a **Computer Engineering student** 🚀  **Front-end Developer**,  from Brazil, currently, I'm a Community Team Member 🙍🏽‍♂️ [@stenioEll](https://github.com/stenioEll), Behance 👨🏽‍💻 [@Behance](https://www.behance.net/stenioellison). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
